@@ -1,0 +1,6 @@
+framework module Pods_CISample_CISampleTests {
+  umbrella header "Pods-CISample-CISampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
