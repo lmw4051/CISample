@@ -2,3 +2,6 @@ This is an app that shows thumbnails photo from https://jsonplaceholder.typicode
 
 Design Pattern:
 MVVM
+
+The screen of the app 
+![Imgur](https://i.imgur.com/czrHF5W.png)
